@@ -1,0 +1,24 @@
+
+Advanced Programming
+Lab #2
+
+
+Huzaifa Sabir
+Bscs2-B
+00654
+
+ 
+Lab 1 Report:
+
+
+We had to create an Interpreter which would interpret some basic statements such as variable declaration, computations on variables and printing statements. I did the code in java. The unit tests for this lab were made using JUnit test cases.  The code takes inputs from file. I read the file and put each line i.e statement in list. 
+ 
+Code parses each statement in list checks it is declaration statement, print or compute statement then passes it to suitable functions.
+Functions are print, declare and compute.
+
+I have implemented test case of reading from file populating list and pass on to parse function.
+ 
+
+Github link:
+https://github.com/huzaifasabir/lab2.git
+
